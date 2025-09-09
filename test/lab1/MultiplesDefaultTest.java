@@ -1,4 +1,5 @@
-import lab1.Multiples;
+package lab1;
+
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -7,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
  */
 public class MultiplesDefaultTest {
 
-    
+
     @Test
     public void testDefault() {
         assertEquals(466,

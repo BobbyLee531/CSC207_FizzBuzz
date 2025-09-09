@@ -456,7 +456,7 @@ def multiples(n: int = 1000, a: int = 3, b: int = 5) -> int:
 > As you learn more programming languages, it can be interesting to observe how they often
 > provide similar functionality with different syntax.
 
-Once you complete these steps, you can copy the `MultiplesDefaultTest.java` file into the `test/lab1` directory
+Once you complete these steps, you can copy the `lab1.MultiplesDefaultTest.java` file into the `test/lab1` directory
 and run the tests in it to check your work — debugging as needed.
 
 - [ ] Use git to push your updated `Multiples.java` file to GitHub and run the self tests again on MarkUs.
@@ -533,7 +533,7 @@ For example, if you start with n = 2, the answer is 2.
 - [ ] Similar to what you did for `Multiples.java`, modify the code so that you can easily test it by extracting
 a helper method called `reduce`. Then generalize that helper to take in `n` as a parameter.
 
-Once you complete these steps, you can copy the `ReduceTest.java` file into the `test/lab1` directory
+Once you complete these steps, you can copy the `lab1.ReduceTest.java` file into the `test/lab1` directory
 and run the tests — debugging as needed.
 
 - [ ] Finally, `add`, `commit`, and `push` your `Reduce.java` — then rerun the self tests on MarkUs.
