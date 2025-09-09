@@ -14,4 +14,7 @@ public class Multiples {
         }
         return k;
     }
+    public static int multiples() {
+        return multiples(1000, 3, 5); // Default values
+    }
 }
